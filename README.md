@@ -1,4 +1,4 @@
-# Generic Stack Implementation in C
+# Stack Implementation in C
 
 A robust, generic stack data structure implementation in C with comprehensive error handling, memory management, and thread-safety considerations. This implementation is designed for embedded systems and general-purpose applications where reliability and efficiency are crucial.
 
